@@ -415,7 +415,7 @@
             },
             "rating" : 24,
             "title" : "群青",
-            "useBackground" : { "useDefault" : false },
+            "useBackground" : { "useDefault" : true },
             "useEffect" : { "useDefault" : true },
             "useParticle" : { "useDefault" : true },
             "useSkin" : { "useDefault" : true },
