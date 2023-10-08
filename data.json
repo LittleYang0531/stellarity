@@ -108,11 +108,11 @@
             },
             "data" : 
             {
-                "hash" : "31361118121f61b50abb2507dc3c3dafae2bfcdd",
+                "hash" : "44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b",
                 "type" : "EngineData",
-                "url" : "/data/31361118121f61b50abb2507dc3c3dafae2bfcdd"
+                "url" : "/data/44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b"
             },
-            "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nVersion: 1.0.0.20230919_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
+            "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nVersion: 1.0.0.20231008_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
             "effect" : 
             {
                 "audio" : 
@@ -170,15 +170,15 @@
             },
             "playData" : 
             {
-                "hash" : "31361118121f61b50abb2507dc3c3dafae2bfcdd",
+                "hash" : "44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b",
                 "type" : "EnginePlayData",
-                "url" : "/data/31361118121f61b50abb2507dc3c3dafae2bfcdd"
+                "url" : "/data/44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b"
             },
             "previewData" : 
             {
-                "hash" : "02c067b20ebcd6561ec138b1d6d33073004080d8",
+                "hash" : "5574ca4074af46ecbd1cc07a4d2a2e950d9e3504",
                 "type" : "EnginePreviewData",
-                "url" : "/data/02c067b20ebcd6561ec138b1d6d33073004080d8"
+                "url" : "/data/5574ca4074af46ecbd1cc07a4d2a2e950d9e3504"
             },
             "skin" : 
             {
@@ -217,9 +217,9 @@
             "title" : "Sirius",
             "tutorialData" : 
             {
-                "hash" : "0a00ae6b688d19af9e8394e67c2df3236ecdb5e1",
+                "hash" : "cb2e0daf7bb4b92f68e2701b0dea937976c71e07",
                 "type" : "EngineTutorialData",
-                "url" : "/data/0a00ae6b688d19af9e8394e67c2df3236ecdb5e1"
+                "url" : "/data/cb2e0daf7bb4b92f68e2701b0dea937976c71e07"
             },
             "version" : 10
         }
@@ -291,11 +291,11 @@
                 },
                 "data" : 
                 {
-                    "hash" : "31361118121f61b50abb2507dc3c3dafae2bfcdd",
+                    "hash" : "44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b",
                     "type" : "EngineData",
-                    "url" : "/data/31361118121f61b50abb2507dc3c3dafae2bfcdd"
+                    "url" : "/data/44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b"
                 },
-                "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nVersion: 1.0.0.20230919_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
+                "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nVersion: 1.0.0.20231008_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
                 "effect" : 
                 {
                     "audio" : 
@@ -353,15 +353,15 @@
                 },
                 "playData" : 
                 {
-                    "hash" : "31361118121f61b50abb2507dc3c3dafae2bfcdd",
+                    "hash" : "44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b",
                     "type" : "EnginePlayData",
-                    "url" : "/data/31361118121f61b50abb2507dc3c3dafae2bfcdd"
+                    "url" : "/data/44ad1697cdf3c2d3d698e447512fe6ebfbe43e2b"
                 },
                 "previewData" : 
                 {
-                    "hash" : "02c067b20ebcd6561ec138b1d6d33073004080d8",
+                    "hash" : "5574ca4074af46ecbd1cc07a4d2a2e950d9e3504",
                     "type" : "EnginePreviewData",
-                    "url" : "/data/02c067b20ebcd6561ec138b1d6d33073004080d8"
+                    "url" : "/data/5574ca4074af46ecbd1cc07a4d2a2e950d9e3504"
                 },
                 "skin" : 
                 {
@@ -400,9 +400,9 @@
                 "title" : "Sirius",
                 "tutorialData" : 
                 {
-                    "hash" : "0a00ae6b688d19af9e8394e67c2df3236ecdb5e1",
+                    "hash" : "cb2e0daf7bb4b92f68e2701b0dea937976c71e07",
                     "type" : "EngineTutorialData",
-                    "url" : "/data/0a00ae6b688d19af9e8394e67c2df3236ecdb5e1"
+                    "url" : "/data/cb2e0daf7bb4b92f68e2701b0dea937976c71e07"
                 },
                 "version" : 10
             },
