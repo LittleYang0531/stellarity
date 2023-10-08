@@ -248,7 +248,7 @@
                 "url" : "/data/a86e99aaca3a11a34c43a1e1dc548ce6a05a9f5d"
             },
             "description" : "",
-            "engine" : { "name" : "sirius" },
+            "engine" : "sirius",
             "name" : "sirius-61-olivier",
             "preview" : 
             {
