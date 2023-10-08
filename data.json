@@ -231,9 +231,9 @@
             "author" : "LittleYang0531",
             "bgm" : 
             {
-                "hash" : "950fd834bf8674bda044f7084fdb08c16dde13d1",
+                "hash" : "0c280869b8f1843e4707bc750138f977f2f89a8d",
                 "type" : "LevelBgm",
-                "url" : "/data/950fd834bf8674bda044f7084fdb08c16dde13d1"
+                "url" : "/data/0c280869b8f1843e4707bc750138f977f2f89a8d"
             },
             "cover" : 
             {
@@ -409,9 +409,9 @@
             "name" : "sirius-61-olivier",
             "preview" : 
             {
-                "hash" : "950fd834bf8674bda044f7084fdb08c16dde13d1",
+                "hash" : "0c280869b8f1843e4707bc750138f977f2f89a8d",
                 "type" : "LevelPreview",
-                "url" : "/data/950fd834bf8674bda044f7084fdb08c16dde13d1"
+                "url" : "/data/0c280869b8f1843e4707bc750138f977f2f89a8d"
             },
             "rating" : 24,
             "title" : "群青",
